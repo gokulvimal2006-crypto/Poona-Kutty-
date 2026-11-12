@@ -9,3 +9,5 @@ Keep music.mp3.mp3 in the same folder as index.html. The music button starts pla
 Photos selected on the page are previews for the current browser session and are not permanently stored by the website.
 
 Made with love — Koala
+
+The photos folder contains the three uploaded memory photos used in the permanent gallery. Upload the entire photos folder to GitHub along with the website files.
